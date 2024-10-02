@@ -1,6 +1,4 @@
-<p align="center">
 <a target="_blank" href=""></a><img src="https://github.com/issambenhida/issambenhida/blob/main/images/welcome.gif?raw=true" height="60%" width="60%" alt="">
-</p>
 
 Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a> :)
 
