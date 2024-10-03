@@ -16,13 +16,12 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="15%" height="15%" alt=""><br>
-      <b>Certified Ethical Hacker (CEH)</b><br>
-      EC-Council
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="30%" height="30%" alt=""><br>
+      Certified Ethical Hacker (CEH)<br>
     </td>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="15%" height="15%" alt=""/><br>
-      <b>AWS Certified Solutions Architect</b><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="30%" height="30%" alt=""/><br>
+      AWS Certified Solutions Architect<br>
       AWS
     </td>
   </tr>
