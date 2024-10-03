@@ -3,13 +3,13 @@
 </p>
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href=""></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+<a target="_blank" href=""></a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/issambenhida" alt="linkedin">
 <a target="_blank" href=""></a><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="mail">
 <a target="_blank" href=""></a><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="mail">
 </p>
 
 ### About Me 🧑‍💼
-🛡️ **Cybersecurity engineer** by day, hunting vulnerabilities by night 🌙.Breaking things apart just to put them back safer and stronger!
+🛡️ **Cybersecurity engineer** by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!
 
 ### Certifications 🎓
 
