@@ -15,6 +15,9 @@
 </p>
 
 ### About Me 🧑‍💼
+
+[------------------](https://github.com/issambenhida/issambenhida/blob/main/images/ecppt.svg?raw=true)
+
 🛡️ **Cybersecurity engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
 
 ### Certifications 🎓
