@@ -14,6 +14,12 @@
 </a>
 </p>
 
+---
+
+![Blue Line](https://via.placeholder.com/600x2/0000FF/FFFFFF?text=)
+
+![Blue Badge](https://img.shields.io/badge/-------0000FF?style=flat-square&logo=none)
+
 <hr style="border: 1px solid blue;">
 
 ![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
