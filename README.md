@@ -14,6 +14,8 @@
 </a>
 </p>
 
+<hr style="border: 1px solid blue;">
+
 ![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 ### About Me 🧑‍💼
