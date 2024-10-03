@@ -26,7 +26,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
       AWS Certified Solutions Architect - Professional <br>
     </td>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/clf.svg?raw=true" width="45%" height="45%" alt=""><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/clf.svg?raw=true" width="50%" height="50%" alt=""><br>
       AWS Certified Cloud Practitioner<br>
     </td>
   </tr>
