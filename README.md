@@ -15,7 +15,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
   <tr>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="52%" height="52%" alt=""><br>
-      Web application Penetration Tester Extreme<br>
+      Web application Penetration Tester<br>
     </td>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ecppt.svg?raw=true" width="45%" height="45%" alt=""><br>
