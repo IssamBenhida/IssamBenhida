@@ -10,7 +10,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 ### Certifications:
 
 <p align="center">
-<a target="_blank" href=""></a><img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="50%" height="60%" alt="">
+<a target="_blank" href=""></a><img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="20%" height="20%" alt="">
 </p>
 <!---
 IssamBenhida/IssamBenhida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
