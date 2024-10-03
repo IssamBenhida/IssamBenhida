@@ -22,6 +22,7 @@
 
 ### Certifications 🎓
 
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 <table>
   <tr>
@@ -47,6 +48,7 @@
 
 ### Technologies ⚡
 
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -79,6 +81,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### Recent Project 📂
+
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 <br>
 
