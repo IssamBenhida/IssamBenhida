@@ -15,19 +15,19 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
   <tr>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="52%" height="52%" alt=""><br>
-      Certified Ethical Hacker (CEH)<br>
+      Web application Penetration Tester Extreme<br>
     </td>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ecppt.svg?raw=true" width="45%" height="45%" alt=""><br>
-      Certified Ethical Hacker (CEH)<br>
+      Certified Professional Penetration Tester<br>
     </td>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.svg?raw=true" width="38%" height="38%" alt=""><br>
-      AWS Certified Solutions Architect<br>
+      AWS Certified Solutions Architect - Professional <br>
     </td>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/clf.svg?raw=true" width="38%" height="38%" alt=""><br>
-      AWS Certified Solutions Architect<br>
+      AWS Certified Cloud Practitioner<br>
     </td>
   </tr>
 </table>
