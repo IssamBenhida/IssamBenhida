@@ -16,7 +16,7 @@
 
 ### About Me 🧑‍💼
 
-![------------------](https://github.com/issambenhida/issambenhida/blob/main/images/line.svg?raw=true)
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 🛡️ **Cybersecurity engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
 
