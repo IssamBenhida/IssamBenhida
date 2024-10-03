@@ -14,7 +14,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="55%" height="55%" alt=""><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="52%" height="52%" alt=""><br>
       Certified Ethical Hacker (CEH)<br>
     </td>
     <td align="center">
