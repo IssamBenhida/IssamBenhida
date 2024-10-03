@@ -15,7 +15,7 @@
 </p>
 
 
-![Blue Line](https://via.placeholder.com/800x2/0000FF/FFFFFF?text=)
+![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 ### About Me 🧑‍💼
 
@@ -23,7 +23,7 @@
 
 **Cybersecurity 🛡️ engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
 
-![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
+![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 ### Certifications 🎓
 
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
+![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 ### Technologies ⚡
 
@@ -87,7 +87,7 @@
 
 ### Recent Project 📂
 
-![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
+![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 <br>
 
