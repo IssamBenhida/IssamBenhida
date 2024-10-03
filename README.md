@@ -20,7 +20,6 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="30%" height="30%" alt=""/><br>
       AWS Certified Solutions Architect<br>
-      AWS
     </td>
   </tr>
 </table>
