@@ -19,7 +19,6 @@
 
 ### Certifications 🎓
 
-<br>
 
 <table>
   <tr>
@@ -44,6 +43,8 @@
 
 
 ### Technologies ⚡
+
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
