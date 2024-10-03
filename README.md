@@ -15,19 +15,15 @@
 </p>
 
 
-![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
-
 ### About Me 🧑‍💼
-
-<br>
+---
 
 **Cybersecurity 🛡️ engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
 
 ![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 ### Certifications 🎓
-
-<br>
+---
 
 <table>
   <tr>
@@ -53,8 +49,7 @@
 ![Blue Line](https://via.placeholder.com/850x2/0000FF/FFFFFF?text=)
 
 ### Technologies ⚡
-
-<br>
+---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
