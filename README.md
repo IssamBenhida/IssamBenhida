@@ -11,9 +11,22 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 
 <br>
 
-<p align="center">
-<a target="_blank" href=""></a><img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="10%" height="10%" alt="">
-</p>
+## Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="15%" height="15%" alt=""><br>
+      <b>Certified Ethical Hacker (CEH)</b><br>
+      EC-Council
+    </td>
+    <td align="center">
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.png?raw=true" width="15%" height="15%" alt=""/><br>
+      <b>AWS Certified Solutions Architect</b><br>
+      AWS
+    </td>
+  </tr>
+</table>
 <!---
 IssamBenhida/IssamBenhida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
