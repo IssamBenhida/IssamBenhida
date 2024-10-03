@@ -14,8 +14,8 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="52%" height="52%" alt=""><br>
-      Web application Penetration Tester<br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="58%" height="58%" alt=""><br>
+      Web Application Penetration Tester<br>
     </td>
     <td align="center">
       <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ecppt.svg?raw=true" width="45%" height="45%" alt=""><br>
@@ -26,7 +26,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
       AWS Certified Solutions Architect - Professional <br>
     </td>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/clf.svg?raw=true" width="50%" height="50%" alt=""><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/clf.svg?raw=true" width="52%" height="52%" alt=""><br>
       AWS Certified Cloud Practitioner<br>
     </td>
   </tr>
