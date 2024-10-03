@@ -18,7 +18,7 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
       Certified Ethical Hacker (CEH)<br>
     </td>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.svg?raw=true" width="40%" height="40%" alt=""><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/sap.svg?raw=true" width="38%" height="38%" alt=""><br>
       AWS Certified Solutions Architect<br>
     </td>
   </tr>
