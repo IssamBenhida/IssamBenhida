@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-<a target="_blank" href=""></a><img src="https://readme-components.vercel.app/api?component=logo&logo=☁️&desc=SageOwl&fill=ff5c00" alt="">
+<a target="_blank" href=""></a><img src="https://readme-components.vercel.app/api?component=logo&logo=☁️&desc=SageOwl&fill=0047ab" alt="">
 </p>
 <!---
 IssamBenhida/IssamBenhida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
