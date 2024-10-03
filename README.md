@@ -11,8 +11,6 @@ Feel free to reach out via <a href="mailto:issam.benhida.911@gmail.com">email</a
 
 <br>
 
-## Certifications
-
 <table>
   <tr>
     <td align="center">
