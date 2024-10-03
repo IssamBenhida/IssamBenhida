@@ -14,15 +14,17 @@
 </a>
 </p>
 
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
+
 ### About Me 🧑‍💼
 
-![------------------](https://github.com/IssamBenhida/issambenhida/blob/main/images/line.png?raw=true)
+**Cybersecurity 🛡️ engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
 
-🛡️ **Cybersecurity engineer by day, hunting vulnerabilities by night. Breaking things apart just to put them back safer and stronger!**
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 ### Certifications 🎓
 
-![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
+<br>
 
 <table>
   <tr>
@@ -45,10 +47,10 @@
   </tr>
 </table>
 
+![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 
 ### Technologies ⚡
 
-![------------------](https://github.com/IssamBenhida/sageowl/blob/main/assets/images/rainbow.png?raw=true)
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
