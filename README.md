@@ -57,7 +57,17 @@
 
 ---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+Cloud Computing: 
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services%20-%20%20%23d35400%20?logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/Microsoft%20Azure%20-%20%20blue%20?logo=cloudways)
+
+![AWS](https://img.shields.io/badge/HashiCorp%20Terraform%20-%20%20purple%20?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/Ansible%20Playbook-%20black?style=flat&logo=ansible&logoColor=black&labelColor=white)
+
+![AWS](https://img.shields.io/badge/Burp%20Suite%20-%20%20red%20?logo=burpsuite&logoColor=white)
+
+
+
 
 ### Recent Project 📂
 
