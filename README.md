@@ -16,18 +16,20 @@
 
 
 ### About Me 🧑‍💼
+
 ---
 
 **Cybersecurity 🛡️ engineer by day and vulnerability hunter by night, breaking things apart just to put them back together safer and stronger. ☕ A dedicated coffee enthusiast—because every good security breach starts with a strong cup!**
 
 
 ### Certifications 🎓
+
 ---
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="58%" height="58%" alt=""><br>
+      <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="45%" height="45%" alt=""><br>
       Web Application Penetration Tester<br>
     </td>
     <td align="center">
@@ -46,11 +48,13 @@
 </table>
 
 ### Technologies ⚡
+
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ### Recent Project 📂
+
 ---
 
 <p align="center">
