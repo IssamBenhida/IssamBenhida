@@ -31,8 +31,8 @@
     <td align="center">
       <a href="https://verified.elearnsecurity.com/certificates/e154bcee-58fe-4e58-893e-f633b72ac0a0">
         <img src="https://github.com/issambenhida/issambenhida/blob/main/images/ewptx.svg?raw=true" width="45%" height="45%" alt=""><br>
-        Web Application Penetration Tester<br>  
       </a>
+        Web Application Penetration Tester<br> 
     </td>
     <td align="center">
       <a href="https://verified.elearnsecurity.com/certificates/ff878703-3631-45a1-82ae-38e59caf2eab">
