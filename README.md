@@ -74,7 +74,9 @@
 
 <p align="center">
 <a target="_blank" href=""></a><img src="https://readme-components.vercel.app/api?component=logo&logo=☁️&desc=SageOwl&fill=0047ab" alt="">
-    A Powerful, AWS-Powered Serverless SIEM
+</p>
+<p align="center">
+<b>A Powerful, AWS-Powered Serverless SIEM</b>
 </p>
 
 <!---
